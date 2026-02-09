@@ -1,0 +1,37 @@
+.inputsContainer
+{
+  max-width: 1000px;
+
+  display: flex;
+  justify-content: left;
+  align-items: end;
+
+  margin-bottom: 10px;
+}
+
+.inputsItem
+{
+  max-width: 200px;
+}
+
+.group
+{
+  max-width: 1000px;
+
+  cursor: pointer;
+  background-color: gray;
+
+  margin-bottom: 10px;
+}
+
+.groupItem
+{
+  margin: auto;
+  padding: 10px;
+  cursor: default;
+
+  display: flex;
+  justify-content: space-between;
+
+  background-color: white;
+}
